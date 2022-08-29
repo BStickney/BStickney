@@ -5,6 +5,8 @@ I’m currently a senior studying Aerospace Engineering at Iowa State University
 - 💬 Ask me about my hydrogen fuel cell M2I project I am working about
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have been to 4 different contintents 
+
+- 📫 How to reach me: stickney@iastate.edu
 <!--
 **BStickney/BStickney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
